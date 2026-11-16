@@ -1,0 +1,71 @@
+{
+  "brand": "Velnoxi",
+  "description": "A Velnoxi é uma iniciativa independente de desenvolvimento de aplicativos e jogos.",
+  "downloadUrl": "https://linktr.ee/velnoxi",
+  "pix": {
+    "enabled": true,
+    "key": "553bc9bc-5810-4a8d-a8c8-56aca6b3828d",
+    "qrImage": "assets/pix-qr.png",
+    "instructions": "Contribuição voluntária para apoiar os projetos da Velnoxi. Antes de confirmar, confira no aplicativo do banco se o destinatário é o responsável legal autorizado a receber os valores."
+  },
+  "goal": {
+    "title": "Fundo geral de desenvolvimento",
+    "target": 1000,
+    "raised": 0,
+    "description": "Meta inicial ilustrativa. O progresso é atualizado manualmente."
+  },
+  "allocation": [
+    {
+      "label": "Desenvolvimento de aplicativos",
+      "percent": 30
+    },
+    {
+      "label": "Desenvolvimento de jogos",
+      "percent": 30
+    },
+    {
+      "label": "Servidores e hospedagem",
+      "percent": 15
+    },
+    {
+      "label": "Ferramentas e softwares",
+      "percent": 15
+    },
+    {
+      "label": "Novos projetos",
+      "percent": 10
+    }
+  ],
+  "projects": [
+    {
+      "name": "Bot Royale Offline",
+      "category": "Jogo",
+      "status": "Publicado",
+      "description": "Um dos projetos publicados pela Velnoxi.",
+      "url": "https://linktr.ee/velnoxi"
+    },
+    {
+      "name": "Patas & Aventuras 3D",
+      "category": "Jogo 3D",
+      "status": "Publicado",
+      "description": "Uma aventura 3D do catálogo da Velnoxi.",
+      "url": "https://linktr.ee/velnoxi"
+    },
+    {
+      "name": "Black Taco",
+      "category": "Aplicativo / jogo",
+      "status": "Publicado",
+      "description": "Conheça este projeto no catálogo oficial.",
+      "url": "https://linktr.ee/velnoxi"
+    }
+  ],
+  "updates": [
+    {
+      "date": "2026-11-16",
+      "title": "Início da plataforma Velnoxi",
+      "text": "Estamos organizando um espaço oficial para apresentar nossos projetos e compartilhar a evolução do desenvolvimento."
+    }
+  ],
+  "expenses": [],
+  "financialNote": "Os registros são atualizados manualmente. O site não confirma automaticamente pagamentos Pix."
+}
